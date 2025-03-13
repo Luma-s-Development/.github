@@ -13,7 +13,7 @@ Most of our projects are **private**, but we aim to share valuable resources wit
 ### Connect with Us  
 [![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://yourstore.tebex.io/)](https://yourstore.tebex.io/)
 [![Discord Badge](https://img.shields.io/badge/-Luma's%20Development-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
-[![Youtube Badge](https://img.shields.io/badge/-@luma-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@luma)](https://www.youtube.com/@luma)
+[![Youtube Badge](https://img.shields.io/badge/-@Luma-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@luma)](https://www.youtube.com/@luma)
 
 Join our **Discord** to stay updated on our latest projects, request support, or collaborate with us.
 
